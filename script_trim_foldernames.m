@@ -34,7 +34,7 @@ func_trim_foldernames('d181210_t124817__Model_IBPPStim7_v7.1',do_git_mv,dry_run)
 
 %% Rename next Model_hrw_v1.3 folder...
 currd = pwd;
-cd ../model-dnsim-kramer_IB_Figs/
+cd ../model-dnsim-kramer_IB_Figs2/
 func_trim_foldernames('d181219_t172155__hcurrent7k_poissTau_1.0',do_git_mv,dry_run);
 cd (currd)
 
