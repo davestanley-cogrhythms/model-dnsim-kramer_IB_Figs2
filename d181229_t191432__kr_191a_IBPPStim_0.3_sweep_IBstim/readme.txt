@@ -1,0 +1,1 @@
+191a_IBPPStim_0.3_sweep_IBstim Goal: Get IB cells to be less excitable during spontaneous activity; allows for more robust reset
