@@ -1,0 +1,1 @@
+DeltaFig6a_onset1_IBPPStim0.4_IBIB_NMDA_9 Just default simulations with AP to see behavior of current model (with shuffling)
