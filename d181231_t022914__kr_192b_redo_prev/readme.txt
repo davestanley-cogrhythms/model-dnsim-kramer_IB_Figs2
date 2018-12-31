@@ -1,0 +1,1 @@
+192b_redo_prev Just default simulations with AP to see behavior of current model (with shuffling)
