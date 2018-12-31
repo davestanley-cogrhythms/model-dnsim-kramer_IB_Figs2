@@ -1,0 +1,1 @@
+192a_test_curr_model Just default simulations with AP to see behavior of current model (with shuffling)
