@@ -1,0 +1,1 @@
+195d_sweep_gNGIB_GABAb Goal: Figure out how to reduce delta period. Try: Reducing GABAB conductance onto IB cells
