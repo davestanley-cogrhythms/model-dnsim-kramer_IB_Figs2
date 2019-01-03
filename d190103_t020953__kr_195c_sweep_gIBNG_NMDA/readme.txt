@@ -1,0 +1,1 @@
+195c_sweep_gIBNG_NMDA Goal: Figure out how to reduce period. Try: Reducing activation of NG GABAB
