@@ -1,0 +1,1 @@
+195e_sweep_IB_stim2 Goal: Figure out to make delta oscillator non-oscillatory. Goal is to test reset responses!
