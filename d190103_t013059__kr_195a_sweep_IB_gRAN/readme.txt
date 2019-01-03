@@ -1,0 +1,1 @@
+195a_sweep_IB_gRAN Spontaneous activity. Goal: Working on low GABAB oscillator, so it will be more easy to reset. First, just decreased excitatory drive to IB cells to see how the oscillator behaves at low drive.
