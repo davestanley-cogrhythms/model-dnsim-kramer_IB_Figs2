@@ -1,0 +1,1 @@
+196l_inc_IBPPStim_0.5 Goal: Make IB cells less hyperpolarized during L6 CT stim
