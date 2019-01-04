@@ -1,0 +1,1 @@
+196d_dec_gtFS5IB_PPmaskduration_50 Goal: Figure out minimum L6 CT excitation that needs to go to IB cells. Sweep IB PPStim to start getting the plateau during L6CT laser onset
