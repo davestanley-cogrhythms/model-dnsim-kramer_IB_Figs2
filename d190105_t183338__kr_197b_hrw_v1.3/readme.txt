@@ -1,0 +1,1 @@
+197b_hrw_v1.3 Adjusted oscillator to make synapses more like hrw_v1.3 (low tension oscillator). This involves increasing g_ngng synapse to reduce ng GABAb activation
