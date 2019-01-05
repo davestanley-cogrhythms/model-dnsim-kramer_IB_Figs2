@@ -1,0 +1,1 @@
+197c_dec_gNGIB Greatly decreased gNGIB. Now see what IB stim level to use to produce appropriate period oscillation.
