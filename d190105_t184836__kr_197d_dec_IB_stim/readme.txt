@@ -1,0 +1,1 @@
+197d_dec_IB_stim Decreased IB stim to get a decent oscillation period. Now test whether the oscillator can be reset.
