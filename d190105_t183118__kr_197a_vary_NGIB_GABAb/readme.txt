@@ -1,0 +1,1 @@
+197a_vary_NGIB_GABAb Goal: Redo delta oscillator to be more excitable between bursts. This involves having less stim to IB cells (which will slow period), but also having weaker GABAb (which will speed up period to compensate)
