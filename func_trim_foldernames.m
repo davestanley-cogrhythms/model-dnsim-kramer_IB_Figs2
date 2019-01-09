@@ -57,7 +57,12 @@ for i = 1:length(names)
         [a,b,c] = fileparts(cf);
         
         % Drop the date information
-        b = b(strfind(b,'__kr')+2:end);
+        if strcmp(b(1),'d') && strcmp(b(9),'t')
+            b = b(17:end);
+            % b = b(strfind(b,'__kr')+2:end);        % Old method for figuring out where time/date portion ends
+        else
+            error('Cannot determine date/time portion of filename');
+        end
         
         % Rebuild new name for current folder
         cf_new = fullfile(a,[b c]);
@@ -97,7 +102,12 @@ for i = 1:length(names)
         [a,b,c] = fileparts(cf);
         
         % Drop the date information
-        b = b(23:end);
+        if strcmp(b(1),'d') && strcmp(b(9),'t')
+            b = b(17:end);
+            % b = b(strfind(b,'__kr')+2:end);        % Old method for figuring out where time/date portion ends
+        else
+            error('Cannot determine date/time portion of filename');
+        end
         b = ['study_' b];
         
         % Rebuild new name for current folder
