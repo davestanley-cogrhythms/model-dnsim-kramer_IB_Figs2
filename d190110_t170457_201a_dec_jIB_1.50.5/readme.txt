@@ -1,0 +1,1 @@
+201a_dec_jIB_1.50.5 Test rebound for VERY low tension oscillator (gNGIB=0.7,jIB=1.5). Try to see why its failing to burst. gAR is still 0.5 
