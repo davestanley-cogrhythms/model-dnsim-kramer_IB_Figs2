@@ -1,0 +1,1 @@
+201e_sweep4D_NMDA_sm20pm1 Vary gNMDA. Goal: See if can remove the partial IB bursts, which actually delay subsequent delta cycle
