@@ -1,0 +1,1 @@
+201e_sweep4D_NMDA_sm21pm7_gRan_0.5 Goal: See if can remove the partial IB bursts, which actually delay subsequent delta cycle. Note G_ran is restored
