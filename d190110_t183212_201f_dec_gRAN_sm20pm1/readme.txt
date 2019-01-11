@@ -1,1 +1,0 @@
-201f_dec_gRAN_sm20pm1 Reduce gRAN. Goal: See if reducing noise can reduce delay caused by IB partial bursts.
