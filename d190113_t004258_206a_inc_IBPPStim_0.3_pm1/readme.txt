@@ -1,0 +1,1 @@
+206a_inc_IBPPStim_0.3_pm1 Goal: Excitatory reset was too weak. This is due to activity of L5 FS cells. Need to increase IB PPStim to compensate.
