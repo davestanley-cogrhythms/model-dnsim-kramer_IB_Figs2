@@ -51,7 +51,7 @@ for i = 1:length(names)
                     % but rather might be another parent folder. Hence, recursively
                     % perform sorting operation on this folder!
         
-        func_trim_foldernames(cf, do_git_mv, dry_run)
+%         func_trim_foldernames(cf, do_git_mv, dry_run)
     else    % Otherwise, continue to perform the rename.
         % First, find where the date information ends
         [a,b,c] = fileparts(cf);
